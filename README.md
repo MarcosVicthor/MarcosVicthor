@@ -71,5 +71,19 @@ Me chamo Marcos Victhor Rodrigues e Rodrigues, tenho 16 anos e sou natural do Ri
 
 ### 📊 Estatística
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MarcosVicthor&show_icons=true&theme=dark)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosVicthor&size_weight=0.5&count_weight=0.5&theme=dark)
+<img 
+    align="left" 
+    alt="Stats" 
+    title="Stats"
+    width="400px" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=MarcosVicthor&show_icons=true&theme=dark" 
+/>
+<img
+    align="left"
+    alt="Languages"
+    title="Languages"
+    width="300px"
+    style="padding-right: 10px"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosVicthor&size_weight=0.5&count_weight=0.5&theme=dark"
+/>
