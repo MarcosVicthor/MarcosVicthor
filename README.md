@@ -85,5 +85,5 @@ Me chamo Marcos Victhor Rodrigues e Rodrigues, tenho 16 anos e sou natural do Ri
     title="Languages"
     width="300px"
     style="padding-right: 10px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosVicthor&size_weight=0.5&count_weight=0.5&theme=dark"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcosVicthor&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Tecnologias"
 />
